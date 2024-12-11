@@ -1,5 +1,11 @@
 # token files
 .env
 
-# Mac DS_Store files
+# misc
 .DS_Store
+
+# dependencies
+/node_modules
+
+# production
+/build
