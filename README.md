@@ -10,7 +10,7 @@ The chatbot greets every new member of the Telegram chat using their nickname. O
 
 ## Preview
 
-![Screenshot](/images/Bot_screenshot.jpg)
+![Screenshot](./images/Bot_screenshot.jpg)
 
 ## Prerequisites
 
